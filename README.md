@@ -38,4 +38,17 @@
 <br>
 --------------------
 <br>
+<br>
+--> Round Panels: <br> Edit  " .config/gtk-3.0/gtk.css " and add the following: 
+<br>>
+<p> 
+.xfce4-panel {
+	border-radius: 20px; 
+}
+</p>
+<br>
+(Feel free to adjust the border-radius value or even add more css rules)
+<br>
+
 </h3>
+
