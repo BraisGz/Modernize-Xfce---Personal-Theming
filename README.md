@@ -48,6 +48,7 @@
 </p>
 <br>
 (Feel free to adjust the border-radius value or even add more css rules)
+<br> --> Note! --> You may need to play with window opacity and shadows in compositor in order to get rid of some artifacts. 
 <br>
 
 </h3>
